@@ -1,109 +1,109 @@
-# Santosh 👋
-> Full Stack Software Developer • React | Node | TypeScript • Building fast, production-ready web apps
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-[![GitHub followers](https://img.shields.io/github/followers/Immortalsantosh?label=follow&style=flat-square)](https://github.com/Immortalsantosh)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santoshfsd)
-[![Email](https://img.shields.io/badge/-santoshofficial0405@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:santoshofficial0405@gmail.com)
-[![Download Resume](https://img.shields.io/badge/Resume-PDF-informational?style=flat-square&logo=adobe-acrobat&logoColor=white)](/Santosh_Resume.pdf)
-
----
+###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Immortalsantosh/your-repo/main/assets/profile-pic.jpg" alt="Santosh" width="140" style="border-radius:70px"/>
+  <a href="https://www.linkedin.com/in/santoshfsd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@yourchannel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
 </div>
 
----
+###
 
-## 🚀 About Me
-Full Stack Software Developer experienced in **React.js, Node.js, Express, Redux, TypeScript**, and working with **MySQL / MongoDB / PostgreSQL**. I build responsive, high-performance web apps and APIs — focused on user experience and clean engineering. (Summary taken from my resume.) :contentReference[oaicite:1]{index=1}
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Immortalsantosh.Immortalsantosh&"  />
+</div>
 
-**Quick facts**
-- 🧰 Stack: React, Next.js (beginner), Tailwind CSS, Node.js, Express, TypeScript, Redux  
-- 🗄 Databases: MySQL, MongoDB, PostgreSQL  
-- ⚙️ Tools: Git, VS Code, Postman, Socket.IO, Cloudinary  
-- 📦 Practices: CI/CD, performance optimization, responsive design
+###
 
----
+<h1 align="center">Hey there 👋, I'm Santosh</h1>
 
-## 💼 Experience
-**Software Engineer (SE)** — *Zspirelabs* · June 2024 – Present  
-- Built and maintained multiple responsive web apps using React & Tailwind.  
-- Improved load speed by ~25% and reduced UI defects by ~15%.  
-- Worked on projects EchoAI, Gitness, Neura.ai (served 5,000+ monthly users). :contentReference[oaicite:2]{index=2}
+###
 
----
+<h3 align="left">👩‍💻  About Me</h3>
 
-## 🔧 Technical Skills
+###
+
+<p align="left">
+I'm a passionate <b>Full Stack Developer</b> from India 🚀<br><br>
+- 🔭 Currently working at <b>Zspirelabs</b> as Software Engineer<br>
+- 📚 Learning and exploring <b>Next.js & Generative AI</b><br>
+- 💡 Built projects like <b>Neura.ai, Echo-AI, Gitness</b><br>
+- ⚡ Fun fact: I love solving real-world problems with code
+</p>
+
+###
+
+<h3 align="left">🛠 Languages and Tools</h3>
+
+###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
----
+###
 
-## 🔭 Selected Projects
+<h3 align="left">🔥   My Stats :</h3>
 
-### [Neura.ai — AI-Powered Virtual Assistant](https://neura-ai-frontend.onrender.com/)
-**Tech:** React, Node.js, MongoDB, Gemini AI, Web Speech API, JWT, Cloudinary  
-- Real-time voice assistant using Gemini + Web Speech API. Customizable assistant profiles and image uploads. Deployed with <2s load time. :contentReference[oaicite:3]{index=3}
+###
 
-### [Echo-AI](https://echo-ai-gold.vercel.app/)
-**Tech:** React, Tailwind, Supabase  
-- Chat history storage, responsive UI, reliability improvements + real-time error handling. :contentReference[oaicite:4]{index=4}
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Immortalsantosh&show_icons=true&theme=dark" height="180" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Immortalsantosh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+</div>
 
-### [Gitness](https://gitness-five.vercel.app/)
-**Tech:** React, Tailwind  
-- Contributed to code hosting UI & CI/CD workflow improvements; reduced deployment time and simplified repo onboarding. :contentReference[oaicite:5]{index=5}
+###
 
----
+<h3 align="left">📂 Projects</h3>
 
-## 🎓 Education
-- **MCA**, SGT University, Gurugram — 2024  
-- **B.Sc.**, CBLU University, Bhiwani — 2021  
-- **Class 12 (HBSE)** — 2018 (First Position). :contentReference[oaicite:6]{index=6}
+- 🧠 **[Neura.ai](https://neura-ai-frontend.onrender.com/)** – AI-powered assistant with Gemini + Web Speech API  
+- 💬 **[Echo-AI](https://echo-ai-gold.vercel.app/)** – Real-time AI chat with Supabase history  
+- 📦 **[Gitness](https://gitness-five.vercel.app/)** – Git hosting UI with CI/CD improvements  
 
----
+###
 
-## 📫 Contact
-- 📧 santoshofficial0405@gmail.com  
-- ☎️ +91 9518167719  
-- 🔗 LinkedIn: https://www.linkedin.com/in/santoshfsd  
-- 🐙 GitHub: https://github.com/Immortalsantosh
+<h3 align="left">🎓 Education</h3>
 
----
+- MCA, SGT University, Gurugram — 2024  
+- B.Sc., CBLU University, Bhiwani — 2021  
+- Class 12 (HBSE) — 2018 (First Position)
 
-## 📝 Download Resume
-You can download my full resume (PDF) here: `/Santosh_Resume.pdf` — or place the real file in the same repo to enable the link.
+###
 
----
+<h3 align="left">📫 Contact Me</h3>
 
-## 🖼️ Logos, Photos & How to show them here
-To show your photo & all logos in the README:
+- 📧 Email: santoshofficial0405@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/santoshfsd](https://www.linkedin.com/in/santoshfsd)  
+- 🐙 GitHub: [github.com/Immortalsantosh](https://github.com/Immortalsantosh)  
+- ☎️ Phone: +91 9518167719  
 
-1. Create a folder in the repo named `/assets/` (or `/images/`).
-2. Add your profile picture as `assets/profile-pic.jpg` and company/tech logos (e.g. `assets/zspirelabs.png`, `assets/react.svg`).
-3. Replace the placeholder image URLs in this README:
-   ```markdown
-   <img src="assets/profile-pic.jpg" alt="Santosh" width="140" style="border-radius:70px"/>
-
-<!--
-**Immortalsantosh/Immortalsantosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
